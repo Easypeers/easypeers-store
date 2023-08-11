@@ -1,0 +1,2 @@
+# easypeers-store
+Easypeers storage
