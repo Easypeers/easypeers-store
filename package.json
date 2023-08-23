@@ -1,0 +1,27 @@
+{
+  "name": "easypeers-store",
+  "version": "1.0.0",
+  "description": "Easypeers storage",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Easypeers/easypeers-store.git"
+  },
+  "keywords": [
+    "easypeers",
+    "storage",
+    "graph",
+    "p2p",
+    "decentralization"
+  ],
+  "author": "Daniel Raeder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Easypeers/easypeers-store/issues"
+  },
+  "homepage": "https://github.com/Easypeers/easypeers-store#readme"
+}
