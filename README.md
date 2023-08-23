@@ -5,14 +5,15 @@ Easypeers-store is a basic graph database with CRDT that works in node and the b
 
 # Usage
 ## Browser
-'''html
+```html
 <script src="" type="module"> ... </script>
-'''
+```
 
 ## Node
-'''js
+
+```js
 import Storage from 'easypeers-store'
-'''
+```
 
 ```js
 const db = new Storage()
